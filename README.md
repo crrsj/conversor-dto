@@ -1,1 +1,1 @@
-Exercício convertendo entidade para dto e vice-versa
+Exercício convertendo entidade para DTO e vice-versa
